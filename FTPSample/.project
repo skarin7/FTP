@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>FTPSample</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>commons-vfs2-2.0-sources</name>
+			<type>2</type>
+			<location>C:/Users/skarin/Desktop/Downloads/commons-vfs-2.0/commons-vfs-2.0/commons-vfs2-2.0-sources</location>
+		</link>
+		<link>
+			<name>jsch-0.1.48</name>
+			<type>2</type>
+			<location>C:/Users/skarin/Desktop/Downloads/jsch-0.1.48/jsch-0.1.48</location>
+		</link>
+	</linkedResources>
+</projectDescription>
